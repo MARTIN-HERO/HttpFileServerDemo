@@ -1,0 +1,6 @@
+c:\users\martinhero\documents\visual studio 2015\Projects\HttpFileServer\HttpFileServer\bin\Debug\HttpFileServer.exe.config
+c:\users\martinhero\documents\visual studio 2015\Projects\HttpFileServer\HttpFileServer\bin\Debug\HttpFileServer.exe
+c:\users\martinhero\documents\visual studio 2015\Projects\HttpFileServer\HttpFileServer\bin\Debug\HttpFileServer.pdb
+c:\users\martinhero\documents\visual studio 2015\Projects\HttpFileServer\HttpFileServer\obj\Debug\HttpFileServer.csprojResolveAssemblyReference.cache
+c:\users\martinhero\documents\visual studio 2015\Projects\HttpFileServer\HttpFileServer\obj\Debug\HttpFileServer.exe
+c:\users\martinhero\documents\visual studio 2015\Projects\HttpFileServer\HttpFileServer\obj\Debug\HttpFileServer.pdb
